@@ -49,3 +49,4 @@ class CategoryPage(BasePage):
             return element.is_displayed()
         except:
             return False
+
